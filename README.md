@@ -1,4 +1,4 @@
 # Aurelis
-The Moderation Discord bot made
+The Moderation Discord bot
 
 Open source cuz why not.
